@@ -6,5 +6,9 @@
             "email": "provoker.1986@gmail.com"
         }
     ],
+    "description": "Pet project for learning PHP.",
+    "bin": [
+        "bin/brain-games"
+    ],
     "require": {}
 }
