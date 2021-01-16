@@ -3,13 +3,13 @@
 
 require_once __DIR__ . '/../src/Cli.php';
 require_once __DIR__ . '/../src/Engine.php';
-require_once __DIR__ . '/../src/Games/Even.php';
+require_once __DIR__ . '/../src/Games/Calc.php';
 
 use function Brain\Engine\startInfo;
 use function Brain\Engine\gameInfo;
 use function Brain\Engine\runGame;
-use function Brain\Games\Even\dataForGameEven;
+use function Brain\Games\Calc\dataForGameCalc;
 
 startInfo();
-gameInfo('Answer "yes" if the number is even, otherwise answer "no".');
-runGame(dataForGameEven());
+gameInfo('What is the result of the expression?');
+runGame(dataForGameCalc());
