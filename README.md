@@ -4,3 +4,4 @@
 ![example workflow lint](https://github.com/ProWalker/php-project-lvl1/workflows/lint/badge.svg)
 [asciinema record brain-even](https://asciinema.org/a/UnGx7fU4Kjt5LoTuUmmC9HmHR)
 [asciinema record brain-calc](https://asciinema.org/a/0qyHYgzvR5wfhhESm7uKsr1jJ)
+[asciinema record brain-gcd](https://asciinema.org/a/NRHCphlI0S7ffwJagl8DltYPk)

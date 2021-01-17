@@ -2,12 +2,6 @@
 
 namespace Brain\Games\Calc;
 
-use function Brain\Engine\startInfo;
-use function Brain\Engine\gameInfo;
-use function Brain\Engine\setQuestionData;
-use function Brain\Engine\getTotalRounds;
-use function Brain\Engine\startGame;
-
 function dataForGameCalc()
 {
     return function () {
