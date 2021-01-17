@@ -5,3 +5,4 @@
 [asciinema record brain-even](https://asciinema.org/a/UnGx7fU4Kjt5LoTuUmmC9HmHR)
 [asciinema record brain-calc](https://asciinema.org/a/0qyHYgzvR5wfhhESm7uKsr1jJ)
 [asciinema record brain-gcd](https://asciinema.org/a/NRHCphlI0S7ffwJagl8DltYPk)
+[asciinema record brain-progression](https://asciinema.org/a/zEcd4daqNRPvEDRpWn7hRM6Mb)
