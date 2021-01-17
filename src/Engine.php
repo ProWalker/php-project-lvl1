@@ -38,11 +38,6 @@ function getTotalRounds(): int
     return 3;
 }
 
-function isGameOver(int $round): bool
-{
-    return $round >= getTotalRounds();
-}
-
 function runGame($dataCreator)
 {
     global $username;

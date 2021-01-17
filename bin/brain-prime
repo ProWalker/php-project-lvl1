@@ -1,0 +1,15 @@
+#!/usr/bin/env php
+<?php
+
+require_once __DIR__ . '/../src/Cli.php';
+require_once __DIR__ . '/../src/Engine.php';
+require_once __DIR__ . '/../src/Games/Prime.php';
+
+use function Brain\Engine\startInfo;
+use function Brain\Engine\gameInfo;
+use function Brain\Engine\runGame;
+use function Brain\Games\Prime\dataForGamePrime;
+
+startInfo();
+gameInfo('Answer "yes" if given number is prime. Otherwise answer "no".');
+runGame(dataForGamePrime());

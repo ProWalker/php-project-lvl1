@@ -6,3 +6,4 @@
 [asciinema record brain-calc](https://asciinema.org/a/0qyHYgzvR5wfhhESm7uKsr1jJ)
 [asciinema record brain-gcd](https://asciinema.org/a/NRHCphlI0S7ffwJagl8DltYPk)
 [asciinema record brain-progression](https://asciinema.org/a/zEcd4daqNRPvEDRpWn7hRM6Mb)
+[asciinema record brain-prime](https://asciinema.org/a/yb1F5LUUwI9tyz9UyzTwEn1mH)
